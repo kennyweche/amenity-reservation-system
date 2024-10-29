@@ -5,7 +5,6 @@ Each amenity will have a certain capacity (number of people that can use the ser
 during the Covid-19 pandemic. Whole
 development process and technical decisions has been explained in this tutorial:
 
-*https://www.freecodecamp.org/news/spring-boot-tutorial-build-fast-modern-java-app/*
 
 ## Technologies
 * Spring Boot
